@@ -1,4 +1,5 @@
 #Game of Thrones trivia game
+# Thanks for adding me
 def formatting(str)
   puts str * 80
 end
