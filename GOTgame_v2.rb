@@ -126,7 +126,11 @@ puts "GAME OVER!"
 formatting("*")
 end
 
-
+#******************************************************
+# Good job on this game. I know you understand all these concepts because we worked on it togheter. 
+# I like the simple elegance of your game flow.
+# Just one comment: Please keep an eye out for spacing and indentations (lines 122 - 125). It's better to get that habbit early than to try
+# to correct it later when your code is pages and pages.
 
 
 
